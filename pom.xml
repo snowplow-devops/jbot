@@ -49,9 +49,8 @@
 
     <distributionManagement>
         <repository>
-            <id>bintray_snowplow-private_private-maven</id>
-            <name>snowplow-private_private-maven</name>
-            <url>https://api.bintray.com/maven/snowplow-private/private-maven/jbot</url>
+            <id>cloudsmith</id>
+            <url>https://maven.cloudsmith.io/snowplow-analytics/snowplow-devops/</url>
         </repository>
     </distributionManagement>
 
